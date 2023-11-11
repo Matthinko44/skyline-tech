@@ -1,0 +1,39 @@
+table, th, td{
+      border-bottom: 1px solid;
+      border-collapse: collapse;
+      border-color: gray;
+      font-size: 20px;
+}
+
+th{
+    background-color: dodgerblue;
+    padding: 20px;
+    color: aliceblue;
+}
+
+td{
+    padding: 20px;
+}
+
+div{
+    width: 70%;
+    margin: auto;
+}
+
+tr:hover{
+    background-color: darkgray;
+
+}
+
+span{
+
+    color: green;
+}
+
+button {
+
+    background-color: green;
+    color: aliceblue;
+    padding: 5px;
+    border-radius: 5px;
+}
